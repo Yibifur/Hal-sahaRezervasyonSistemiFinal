@@ -1,0 +1,56 @@
+C:\Users\yibif\Desktop\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha proje kopya.csproj.AssemblyReference.cache
+C:\Users\yibif\Desktop\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha proje kopya.csproj.SuggestedBindingRedirects.cache
+C:\Users\yibif\Desktop\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.Kayıtol.resources
+C:\Users\yibif\Desktop\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.Properties.Resources.resources
+C:\Users\yibif\Desktop\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha proje kopya.csproj.GenerateResource.cache
+C:\Users\yibif\Desktop\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha proje kopya.csproj.CoreCompileInputs.cache
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\bin\x64\Debug\halısaha proje kopya.exe.config
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\bin\x64\Debug\halısaha proje kopya.exe
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\bin\x64\Debug\halısaha proje kopya.pdb
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\bin\x64\Debug\FontAwesome.Sharp.dll
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha proje kopya.csproj.AssemblyReference.cache
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha proje kopya.csproj.SuggestedBindingRedirects.cache
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.AnaEkran.resources
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.Kayıtol.resources
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.Profil.resources
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.Properties.Resources.resources
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.Rezervasyon.resources
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.RezervGuncelle.resources
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.RezervSil.resources
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha proje kopya.csproj.GenerateResource.cache
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha proje kopya.csproj.CoreCompileInputs.cache
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha proje kopya.csproj.CopyComplete
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha proje kopya.exe
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha proje kopya.pdb
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.Girisyap.resources
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.Bos.resources
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.Adres.resources
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.warning.resources
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.Sifremiunuttum.resources
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.Sifreyenileme.resources
+C:\Users\onur_\Desktop\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.Arama.resources
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\bin\x64\Debug\halısaha proje kopya.exe.config
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\bin\x64\Debug\halısaha proje kopya.exe
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\bin\x64\Debug\halısaha proje kopya.pdb
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\bin\x64\Debug\FontAwesome.Sharp.dll
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha proje kopya.csproj.AssemblyReference.cache
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha proje kopya.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.Adres.resources
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.AnaEkran.resources
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.Arama.resources
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.Bos.resources
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.Girisyap.resources
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.Kayıtol.resources
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.Profil.resources
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.Properties.Resources.resources
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.Rezervasyon.resources
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.RezervGuncelle.resources
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.RezervSil.resources
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.Sifremiunuttum.resources
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.Sifreyenileme.resources
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha_proje_kopya.warning.resources
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha proje kopya.csproj.GenerateResource.cache
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha proje kopya.csproj.CoreCompileInputs.cache
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha proje kopya.csproj.CopyComplete
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha proje kopya.exe
+C:\Users\Yibif\Downloads\EsasProje\EsasProje\EsasProje\halısaha proje kopya\halısaha proje kopya\obj\x64\Debug\halısaha proje kopya.pdb
